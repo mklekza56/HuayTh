@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175158506128",
+    "firebase_url": "https://huayth-a9a09.firebaseio.com",
+    "project_id": "huayth-a9a09",
+    "storage_bucket": "huayth-a9a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175158506128:android:06a56226d5277a91e81e15",
+        "android_client_info": {
+          "package_name": "Huay001.th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175158506128-9cu0vo92qp6uvhkfh74pse0ig160vq43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJaX3X1l8LpoZZTLgyjP7aHO4TJFMT4ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175158506128-9cu0vo92qp6uvhkfh74pse0ig160vq43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
